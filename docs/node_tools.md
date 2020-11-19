@@ -18,6 +18,12 @@ using respective libraries.
 - [UseMin CLI](https://www.npmjs.com/package/usemin-cli) along with other modules
 **cssmin uglifyjs htmlmin** can compact the CSS, HTML, and JS files.
 
+## Motivation and Guides
+See [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/) for some rationale.
+And here are [steps to use npm as a build tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/).
+
+I am a big fan of command line tools as well. See [Web Design Command Line](https://webdesign.tutsplus.com/series/the-command-line-for-web-design--cms-777) for helpful inputs.
+
 
 ## Simple Servers
 [Lite-server](https://www.npmjs.com/package/lite-server) provides a light-weight web server.
