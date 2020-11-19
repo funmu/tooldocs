@@ -11,12 +11,13 @@ Separately, I had been coaching young kids to develop an understanding of
  computers and programming. I will include notes on tools and tutorials I
  refer these early learners to.
 
-## Web Development Tools
+The [scripts](./scripts) folder has a few utility scripts. More to come there. It assumes a Mac/Bash shell development environment.
 
+## Web Development Tools
+See [Web Design Tools](docs/web_design.md)
 
 ## Javascript / Node Tools
-- See [Node Tools](docs/node_tools.md)
-
+See [Node Tools](docs/node_tools.md)
 
 ## React / Javascript
 

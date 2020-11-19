@@ -5,13 +5,31 @@ Over time in combination with [Node Package Manager](https://npmjs.org) there ar
 lots of advanced packages available to create server-side and client-side programs.
 
 ## Node based Toolchain
+- [Rimraf](https://www.npmjs.com/package/rimraf) helps to clean and manage files.
+It is based on UNIX command **rm -rf** and often used fo managing the
+distribution folder in node projects.
+- [Copy Files](https://www.npmjs.com/package/copyfiles) provides convenient scripts
+for copying files. This is platform agnostic and hence enables node scripts to be
+used across a variety of systems.
+- [Image Minimizer](https://www.npmjs.com/package/imagemin) minimizes images for optimal delivery.
+This is used by [CLI for Image Minimizer](https://github.com/imagemin/imagemin-cli) for
+easy command line invocation. Together these can optimize **.gif, .png, and .jpg** files
+using respective libraries.
+- [UseMin CLI](https://www.npmjs.com/package/usemin-cli) along with other modules
+**cssmin uglifyjs htmlmin** can compact the CSS, HTML, and JS files.
+
+
+## Simple Servers
+[Lite-server](https://www.npmjs.com/package/lite-server) provides a light-weight web server.
+Use this for running simple websites for testing out the UI build out of HTML/CSS/JS.
 
 ### File Change Watchers
 During development, it is customary that we change Javascript, CSS, HTML or other files.
 When change happens, we will need to restart the server or at least update the status.
 Change watchers precisely allow for such automation.
 
-- [NPM Change Watcher]()
+- [NPM Change Watcher](https://www.npmjs.com/package/onchange) watches for changes and executes commands
+
 
 ### Parallel Execution of NPM scripts
 When the JavaScript and web projects mature, there are a LOT of files
