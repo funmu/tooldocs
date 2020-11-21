@@ -4,6 +4,24 @@ It eases development of complex script driven programs.
 Over time in combination with [Node Package Manager](https://npmjs.org) there are
 lots of advanced packages available to create server-side and client-side programs.
 
+### File Change Watchers
+During development, it is customary that we change Javascript, CSS, HTML or other files.
+When change happens, we will need to restart the server or at least update the status.
+Change watchers precisely allow for such automation.
+
+- [NPM Change Watcher](https://www.npmjs.com/package/onchange) watches for changes and executes commands
+
+
+### Parallel Execution of NPM scripts
+When the JavaScript and web projects mature, there are a LOT of files
+and separate modules that need better packaging for distribution and deployment.
+When we trial run these modules, we may need to parallel execute multiple scripts.
+Such parallel execution is enabled using the following tools.
+
+  - [Concurrently](https://github.com/kimmobrunfeldt/concurrently) is a stable and maintained package.
+  Has more sophisticated ways to run and watch multiple commands.
+  - [ParallelShell](https://www.npmjs.com/package/parallelshell) - old package and not maintained since 2017
+
 ## Node based Toolchain
 - [Rimraf](https://www.npmjs.com/package/rimraf) helps to clean and manage files.
 It is based on UNIX command **rm -rf** and often used fo managing the
@@ -24,25 +42,20 @@ And here are [steps to use npm as a build tool](https://www.keithcirkel.co.uk/ho
 
 I am a big fan of command line tools as well. See [Web Design Command Line](https://webdesign.tutsplus.com/series/the-command-line-for-web-design--cms-777) for helpful inputs.
 
-
 ## Simple Servers
 [Lite-server](https://www.npmjs.com/package/lite-server) provides a light-weight web server.
 Use this for running simple websites for testing out the UI build out of HTML/CSS/JS.
 
-### File Change Watchers
-During development, it is customary that we change Javascript, CSS, HTML or other files.
-When change happens, we will need to restart the server or at least update the status.
-Change watchers precisely allow for such automation.
+[JSON-Server](https://github.com/typicode/json-server) - allows us to create
+simple REST API with JSON data from a db.json file.
+For file upload I have to use alternate solutions, perhaps using the underlying
+express server used by JSON-server. See [alternate ways for file upload server](https://github.com/typicode/json-server/issues/528)
 
-- [NPM Change Watcher](https://www.npmjs.com/package/onchange) watches for changes and executes commands
+[Multer - multipart/form-data processor](https://www.npmjs.com/package/multer) - is a helpful
+ middleware for handling file uploads inside the express server or JSON-server.
 
+[AOK.js](https://github.com/apporoad/aok.js) - allows us to create simple API server + allow for file uploads as well.
 
-### Parallel Execution of NPM scripts
-When the JavaScript and web projects mature, there are a LOT of files
-and separate modules that need better packaging for distribution and deployment.
-When we trial run these modules, we may need to parallel execute multiple scripts.
-Such parallel execution is enabled using the following tools.
-
-  - [Concurrently](https://github.com/kimmobrunfeldt/concurrently) is a stable and maintained package.
-  Has more sophisticated ways to run and watch multiple commands.
-  - [ParallelShell](https://www.npmjs.com/package/parallelshell) - old package and not maintained since 2017
+### Diagnostic Tools for Server
+[Morgan](https://github.com/expressjs/morgan) is useful utility to generate log
+for requests processed by server.

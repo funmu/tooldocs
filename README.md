@@ -13,16 +13,15 @@ Separately, I had been coaching young kids to develop an understanding of
 
 The [scripts](./scripts) folder has a few utility scripts. More to come there. It assumes a Mac/Bash shell development environment.
 
+## General Development
+First get started with general [Development Tools](docs/dev_tools.md).
+
 ## Web Development Tools
-See [Web Design Tools](docs/web_design.md)
+See [Web Design Tools](docs/web_design.md).
 
 ## Javascript / Node Tools
-See [Node Tools](docs/node_tools.md)
-
-## React / Javascript
-
+See [Node Tools](docs/node_tools.md).
 
 ## Credits
 - The Internet - for easily providing access to information
-- [GitHub](https://github.com) and [BitBucket](https://bitbucket.com) - for repository management
-- [Atom Editor](https://atom.io) - my editor of choice for now
+- [Coursera](https://coursera.com) for good organized courses

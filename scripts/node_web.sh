@@ -21,3 +21,9 @@ echo
 
 echo npm install --save-dev usemin-cli
 echo npm install --save-dev cssmin uglifyjs htmlmin
+
+echo
+echo Install JSON-server for simple API testing
+echo
+echo npm install --save-dev json-server
+echo npm install --save-dev morgan

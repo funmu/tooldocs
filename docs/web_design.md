@@ -5,6 +5,15 @@ other files including CSS, JS, etc., have joined the party. There are now 100s
 of frameworks, libraries, and tools that ease the job of creating compelling experiences.
 Here are a few such items listed.
 
+## Basics
+
+ - HTML is deceoptively simple. Still [HTML tutorial](https://www.w3schools.com/html/)
+offers quick tutorial on latest langauge features
+ - Cascading Style Sheets have revolutioned how the web pages look. Learn more using
+ [CSS Tutorial](https://www.w3schools.com/css/)
+ - We know that Javascript makes all web things alive.
+ Learn more using [Javascript tutorial](https://www.w3schools.com/js)
+
 ## UI Frameworks
 - [Top 5 UI frameworks](https://www.sitepoint.com/most-popular-frontend-frameworks-compared/) of which Bootstap4 tops the list.
 - [On CSS Flex Layouts](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - beautiful illustrations
