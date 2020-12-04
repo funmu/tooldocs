@@ -15,6 +15,9 @@ The [scripts](./scripts) folder has a few utility scripts. More to come there. I
 
 ## General Development
 First get started with general [Development Tools](docs/dev_tools.md).
+There are a variety of [open source tools](docs/oss_tools.md) that
+may take long time to learn, but can significantly smaller compared to
+creating such tools on our own.
 
 ## Web Development Tools
 See [Web Design Tools](docs/web_design.md).

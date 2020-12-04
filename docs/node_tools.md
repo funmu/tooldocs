@@ -13,6 +13,12 @@ Change watchers precisely allow for such automation.
 
 - [NPM Change Watcher](https://www.npmjs.com/package/onchange) watches for changes and executes commands
 
+
+### Files
+- [File API](https://w3c.github.io/FileAPI/) specifies how one can work with File and Blob data structure within Javascript. More documentation on the [File object](https://developer.mozilla.org/en-US/docs/Web/API/File) at Mozilla site. And there are [many examples of working with files](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
+- [JQuery File Upload with Customized button](https://github.com/blueimp/jQuery-File-Upload/wiki/Multiple-File-Input-Fields-in-One-Form)
+
+
 ### Parallel Execution of NPM scripts
 When the JavaScript and web projects mature, there are a LOT of files
 and separate modules that need better packaging for distribution and deployment.
