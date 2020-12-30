@@ -58,6 +58,9 @@ simple REST API with JSON data from a db.json file.
 For file upload I have to use alternate solutions, perhaps using the underlying
 express server used by JSON-server. See [alternate ways for file upload server](https://github.com/typicode/json-server/issues/528)
 
+[JSON Serverless](https://github.com/pharindoko/json-serverless) helps one to
+take the *JSON-server* and run it on AWS as a serverless operation.
+
 [Multer - multipart/form-data processor](https://www.npmjs.com/package/multer) - is a helpful
  middleware for handling file uploads inside the express server or JSON-server.
 

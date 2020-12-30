@@ -67,5 +67,9 @@ provides comprehensive information to help in the Navbar Designs.
 It also includes links to libraries to help with the navigation designs.
 Navigation needs to be designed with SEO in mind.
 
-## Other Frameworks
+## React
  - React is a popular web framework. See [React Tools](react_tools.md).
+
+## Diagramming Libraries and Frameworks in JavaScript
+- [Top N diagramming libraries](https://modeling-languages.com/javascript-drawing-libraries-diagrams/)
+- [GoJS Family Tree](https://gojs.net/latest/samples/familyTree.html)

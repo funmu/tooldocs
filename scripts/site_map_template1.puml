@@ -1,0 +1,60 @@
+@startuml
+' site_map_template1.puml
+' Site Map Template 1
+' created: Murali Krishnan, Dec 14, 2020
+'
+
+' -------------- -------------- -------------- --------------
+' simple_1.iuml - list of simple reusable items of style
+' -------------- -------------- -------------- --------------
+
+!$ConsumerColor = "#GreenYellow"
+!$BusinessColor = "#Aqua"
+!$AdminColor = "#Magenta"
+
+skinparam linetype ortho
+skinparam backgroundColor HoneyDew
+skinparam roundcorner 20
+
+skinparam class {
+  BackgroundColor Gray
+  ArrowColor SeaGreen
+  FontSize 16
+  BorderColor SpringGreen
+}
+
+skinparam agent {
+  BackgroundColor GreenYellow
+  ArrowColor SeaGreen
+  FontSize 40
+  BorderColor SpringGreen
+}
+
+skinparam component {
+  BackgroundColor Green
+  ArrowColor SeaGreen
+  FontSize 16
+  BorderColor SpringGreen
+}
+
+
+' -------------- -------------- -------------- --------------
+' site_map - main section goes here
+' -------------- -------------- -------------- --------------
+
+agent [Thrive CX] $ConsumerColor
+
+agent ThriveBX
+' $BusinessColor
+
+agent [Thrive DX] $AdminColor
+
+cloud "3rd Parties" {
+
+  frame "Integration Services" {
+    component [External Integration] #Gray
+  }
+
+}
+
+@enduml
