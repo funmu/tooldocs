@@ -36,19 +36,19 @@ Why I Left Gulp and Grunt for npm Scripts
 - [Ethan Marcotte's seminal paper on Responsive Web Design](https://alistapart.com/article/responsive-web-design/) - published in May 25, 2010
 
 ## Icons, CSS, etc.
-[Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/) - good set
-of CSS tricks shown with fonts.
-[Font Awesome](https://fontawesome.com/start) is a great library of font Icons
-[Using SVGs](https://gomakethings.com/using-svgs/) talks about SVG Sprites that
-provide lot more flexibility.
+- [Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/) - good set of CSS tricks shown with fonts.
+- [Font Awesome](https://fontawesome.com/start) is a great library of font Icons
+- [Using SVGs](https://gomakethings.com/using-svgs/) talks about SVG Sprites that provide lot more flexibility.
+- [Image Magick](https://imagemagick.org/) simple and flexible tool for managing images. See [ImageMagick Commands](http://web.mit.edu/Graphics/src/ImageMagick-6.0.6/www/ImageMagick.html) for details (NOTE this is for v6, but applies for v7 also). And there are more [command line examples](https://imagemagick.org/script/command-line-processing.php) to learn from.
+- [FFMPEG](https://ffmpeg.org/) - great solution for processing, converting, audio and video.
 
 ## CSS Management
 
-[Less for Styles](http://lesscss.org/) is *Leaner Stylesheets*.
+- [Less for Styles](http://lesscss.org/) is *Leaner Stylesheets*.
 It provides a compact programmable representation
 for styles. Use **lessc** to compile *.less* files into *.css* files.
 
-[SCSS for Styles](https://sass-lang.com/guide) is *Simply Awesome Stylesheets* language.
+- [SCSS for Styles](https://sass-lang.com/guide) is *Simply Awesome Stylesheets* language.
 It offers convenience for preprocessing stylesheet descriptions into css.
 Use **sass** or **node-sass** to compile *.scss* files into *.css* files.
 
@@ -69,6 +69,9 @@ Navigation needs to be designed with SEO in mind.
 
 ## React
  - React is a popular web framework. See [React Tools](react_tools.md).
+
+## Wordpress
+- Wordpress is the most used content management system. [Wordpress.org](https://wordpress.org) supplies open source software. Use [Wordpress.com](https://wordpress.com) for hosting wordpress based sites. See [Wordpress Get Started](https://wordpress.com/learn/) for learning about wordpress.
 
 ## Diagramming Libraries and Frameworks in JavaScript
 - [Top N diagramming libraries](https://modeling-languages.com/javascript-drawing-libraries-diagrams/)
