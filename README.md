@@ -28,6 +28,9 @@ See [React Framework Tools](docs/react_tools.md).
 See [Node Tools](docs/node_tools.md).
 See [Data Tools](docs/data_tools.md).
 
+## Signal App
+See [Signal Tools](docs/signal_tools.md).
+
 ## Credits
 - The Internet - for easily providing access to information
 - [Coursera](https://coursera.com) for good organized courses

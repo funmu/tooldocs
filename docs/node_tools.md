@@ -67,17 +67,15 @@ See [alternate ways for file upload server](https://github.com/typicode/json-ser
 [JSON Serverless](https://github.com/pharindoko/json-serverless) helps one to
 take the *JSON-server* and run it on AWS as a serverless operation.
 
-[Multer - multipart/form-data processor](https://www.npmjs.com/package/multer) - is a helpful
- middleware for handling file uploads inside the express server or JSON-server.
-
-Here is an ExpressJS and Multer based
- [File Upload](https://bezkoder.com/node-js-express-file-upload/)
-
 [AOK.js](https://github.com/apporoad/aok.js) - allows us to create simple API server + allow for file uploads as well.
 
 ## ExpressJS
 [Express JS](ExpressJS) is a node package for quickly building extensible web server / API service.
 
+[Multer - multipart/form-data processor](https://www.npmjs.com/package/multer) - is a helpful middleware for handling file uploads inside the express server or JSON-server.
+
+Here is an ExpressJS and Multer based
+ [File Upload](https://bezkoder.com/node-js-express-file-upload/)
 
 
 ## Task Runners for Automation
