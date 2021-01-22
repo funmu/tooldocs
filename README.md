@@ -21,9 +21,12 @@ creating such tools on our own.
 
 ## Web Development Tools
 See [Web Design Tools](docs/web_design.md).
+See [Engineering Tools](docs/engg_tools.md).
+See [React Framework Tools](docs/react_tools.md).
 
 ## Javascript / Node Tools
 See [Node Tools](docs/node_tools.md).
+See [Data Tools](docs/data_tools.md).
 
 ## Credits
 - The Internet - for easily providing access to information

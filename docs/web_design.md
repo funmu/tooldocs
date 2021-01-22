@@ -11,7 +11,6 @@ is key for defining how the experience will look and behave.
 See [Information Architecture 101](https://www.webfx.com/blog/web-design/information-architecture-101-techniques-and-best-practices/) for some best practices.
 
 ## Basics
-
  - HTML is deceoptively simple. Still [HTML tutorial](https://www.w3schools.com/html/)
 offers quick tutorial on latest langauge features
  - Cascading Style Sheets have revolutioned how the web pages look. Learn more using
@@ -30,6 +29,18 @@ Why I Left Gulp and Grunt for npm Scripts
 ## UI Frameworks
 - [Top 5 UI frameworks](https://www.sitepoint.com/most-popular-frontend-frameworks-compared/) of which Bootstap4 tops the list.
 - [On CSS Flex Layouts](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - beautiful illustrations
+
+Navigation bars are important to guide the users.
+- [Navigation Bar Designs](https://www.hongkiat.com/blog/navigation-design-ideas-inspiration/)
+provides comprehensive information to help in the Navbar Designs.
+It also includes links to libraries to help with the navigation designs.
+Navigation needs to be designed with SEO in mind.
+
+## UX Designs
+A variety of tools help with UX Design including: Figma, Sketch, Proto.io, etc.
+Additional aspects to consider include: Visual Deign, Colors, Fonts, Themes, Graphics, Animations, etc.
+
+
 
 ### Responsive Web Design
 - [Simple Introduction to Responsive Web Design](https://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
@@ -59,13 +70,6 @@ See
 - [Bootstrap4](https://getbootstrap.com) to learn more.
 - Bootstrap4 offers rich [typography](https://getbootstrap.com/docs/4.0/content/typography/) to learn more.
 
-## Navigation Menu Designs
-Navigation bars are important to guide the users.
-
-[Navigation Bar Designs](https://www.hongkiat.com/blog/navigation-design-ideas-inspiration/)
-provides comprehensive information to help in the Navbar Designs.
-It also includes links to libraries to help with the navigation designs.
-Navigation needs to be designed with SEO in mind.
 
 ## React
  - React is a popular web framework. See [React Tools](react_tools.md).
