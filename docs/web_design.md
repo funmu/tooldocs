@@ -40,7 +40,7 @@ Navigation needs to be designed with SEO in mind.
 A variety of tools help with UX Design including: Figma, Sketch, Proto.io, etc.
 Additional aspects to consider include: Visual Deign, Colors, Fonts, Themes, Graphics, Animations, etc.
 
-
+- [Illustration Kit](https://illustrationkit.com/) has some amazing vector graphics for easy use on the web.
 
 ### Responsive Web Design
 - [Simple Introduction to Responsive Web Design](https://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
@@ -48,6 +48,7 @@ Additional aspects to consider include: Visual Deign, Colors, Fonts, Themes, Gra
 
 ## Icons, CSS, etc.
 - [Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/) - good set of CSS tricks shown with fonts.
+= [Color Selections](https://coolors.co) for color selection
 - [Font Awesome](https://fontawesome.com/start) is a great library of font Icons
 - [Using SVGs](https://gomakethings.com/using-svgs/) talks about SVG Sprites that provide lot more flexibility.
 - [Image Magick](https://imagemagick.org/) simple and flexible tool for managing images. See [ImageMagick Commands](http://web.mit.edu/Graphics/src/ImageMagick-6.0.6/www/ImageMagick.html) for details (NOTE this is for v6, but applies for v7 also). And there are more [command line examples](https://imagemagick.org/script/command-line-processing.php) to learn from.
@@ -70,6 +71,9 @@ See
 - [Bootstrap4](https://getbootstrap.com) to learn more.
 - Bootstrap4 offers rich [typography](https://getbootstrap.com/docs/4.0/content/typography/) to learn more.
 
+Here are some design tools for building out layout and components with bootstrap
+- [LayoutIt](https://www.layoutit.com/) helps one to build bootstrap and CSS based Layouts
+- [Bootsnip Builder](https://bootsnipp.com/builder) is another way to build out boostrap layouts.
 
 ## React
  - React is a popular web framework. See [React Tools](react_tools.md).
