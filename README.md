@@ -26,7 +26,11 @@ See [React Framework Tools](docs/react_tools.md).
 
 ## Javascript / Node Tools
 See [Node Tools](docs/node_tools.md).
-See [Data Tools](docs/data_tools.md).
+
+## Data Tools
+See [Data Tools](docs/data_tools.md) for tools and scripts to work with databases.
+
+ToDo: add notes on data visualization tools.
 
 ## Signal App
 See [Signal Tools](docs/signal_tools.md).
