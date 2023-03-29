@@ -1,5 +1,11 @@
 # React Framework Tools and Tutorials
 
+## Install React Framework
+React.js is an open source Javascript tools released by Facebook. 
+Install the [React JS](https://github.com/facebook/create-react-app) to get started.
+
+Learn more about React at [React JS Docs and Tutorials](https://reactjs.org/).
+
 ## Forms related helpers and tutorials
 
 

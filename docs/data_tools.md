@@ -3,6 +3,15 @@ All servers mostly maintain state required for future processing of events.
 Such data may be in any format including files, structured and unstructured datasets
 residing in the databases.
 
+## DBeaver
+[DBeaver](https://dbeaver.io) is a great universal database tool. Install this to connect with many types of databases. Create database diagrams, databases, tables, import and export data, etc. It comes with its own [DBeaver Docs](https://github.com/dbeaver/dbeaver/wiki).
+
+## PostgreSQL
+PostgreSQL is the world's advanced (free) relational database. It is widely used in the industry and in most cloud projects.
+
+Download [PostgreSQL](https://www.postgresql.org) and install locally on your machine. There are Windows, MacOS, and Linux editions available. 
+
+Start with [PostgreSQL Tutorials](https://www.postgresql.org/docs/online-resources/) to learn more and get going.
 
 ## Mongo DB
 MongoDB is a very widely used Object-Relational datastore that makes it easy to store objects.
