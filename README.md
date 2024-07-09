@@ -32,6 +32,9 @@ See [Data Tools](docs/data_tools.md) for tools and scripts to work with database
 
 ToDo: add notes on data visualization tools.
 
+## 3D Printing
+3D Printing is fascinating way to create personal and custome items. See [3D Printinng Tools](docs/3d_tools.md) for related tools
+
 ## Signal App
 See [Signal Tools](docs/signal_tools.md).
 
