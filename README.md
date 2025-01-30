@@ -20,6 +20,12 @@ There are a variety of [open source tools](docs/oss_tools.md) that
 may take long time to learn, but can significantly smaller compared to
 creating such tools on our own.
 
+## AI Development
+
+Large Language Models provide a rich set of functionatliy for us to generate content, code, images, etc. 
+
+See [Self Hosting of AI Models with LLMs](https://github.com/funmu/shail) to get started.
+
 ## Web Development Tools
 
 See [Web Design Tools](docs/web_design.md).
